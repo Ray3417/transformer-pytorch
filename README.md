@@ -33,7 +33,7 @@ If you want to try `fast_transformer`, give a `model` argument after installing
 ```
 $ python train.py --problem lm1b --output_dir ./output --data_dir ./lm1b_data --model fast_transformer
 ```
-
+*However i dont konw what is tcop*
 
 2. You can translate a single sentence with the trained model.
 ```
